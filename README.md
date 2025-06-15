@@ -11,8 +11,8 @@
 - 書名：競技プログラミングの鉄則（通称：鉄則本）
 - 著者：石田 保輝（yoshiki）他
 - 出版社：マイナビ出版
-- 書籍ページ：[https://book.mynavi.jp/ec/products/detail/id=123566](https://book.mynavi.jp/ec/products/detail/id=123566)
-- GitHub公式レポジトリ：[https://github.com/yoshiki-sen/tessoku-book](https://github.com/yoshiki-sen/tessoku-book)
+- 書籍ページ：[https://book.mynavi.jp/ec/products/detail/id=131288](https://book.mynavi.jp/ec/products/detail/id=131288)
+- GitHub公式レポジトリ：[https://github.com/E869120/kyopro-tessoku](https://github.com/E869120/kyopro-tessoku)
 
 ---
 
